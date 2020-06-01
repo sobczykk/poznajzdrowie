@@ -8,7 +8,7 @@
 * [Status](#status)
 * [Inspiracje](#inspiracje)
 
-## Raport III
+## Raport_III
 Zrobiłam:
 - zintegrowanie całego sklepu z Django ORM (opierającego się na sqlite3) 
 - dodałam nową funkcjonalność do panelu administratora, która pozwala na dodawanie/usuwanie/edycję produktów na stronie przez włąściciela za pomocą intuicyjnego interfejsu stworzonego z wykorzystaniem modeli
@@ -23,7 +23,7 @@ Aktualnie zajmuję się:
 - dopracowaniem stworzonych już funkcji, które działąją w niezadawalający mnie sposób
 - możliwością wyświetlania szczegółowej informacji o danym produkcie po kliknięciu przycisku 
 
-## Raport II
+## Raport_II
 Zrobiłam:
 - research na temat frameworków webowych, zastanawiałam się nad wyborem pomiędzy Django, Flask oraz nowym fastAPI, jednak z powodu braku wystarczających materiałów dla fastAPI oraz przeczytanych opinii wybór padł na Django 
 - wykorzystywałam do pracy środowisko wirtualne venv do zarządzania moimi modułami pip
