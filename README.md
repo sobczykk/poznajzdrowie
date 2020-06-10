@@ -19,7 +19,7 @@ Zrobiłam:
 
 Aktualnie zajmuję się:
 - dopracowaniem UI designu aby sklep wyglądał bardziej nowocześnie, dopasowaniem rozdzielczości zdjęć do formatu na stronie
-- umożliwieniem płatności na stronie poprzez Stripe
+- umożliwieniem płatności na stronie poprzez Paypala
 - dopracowaniem stworzonych już funkcji, które działąją w niezadawalający mnie sposób
 - możliwością wyświetlania szczegółowej informacji o danym produkcie po kliknięciu przycisku 
 
