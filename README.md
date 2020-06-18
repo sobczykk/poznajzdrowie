@@ -47,9 +47,9 @@ wszystko zajmuję mi bardzo dużo czasu i nerwów, ponieważ pierwszy raz robię
 * Python - version 3.8.2
 * Django- version 2.2.8
 * Bootstap 4 
-* Sqlite/PostgreSQl
-* Heroku (jeżeli starczy czasu to VPS+DNS)
-* płatności (Stripe?)
+* Sqlite3
+* Heroku 
+* płatności API Paypal
 
 ## Status
 Projekt w przygotowaniu.
